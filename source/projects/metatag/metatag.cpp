@@ -9,12 +9,12 @@
 #include "ext_charset.h"
 #include "ext_drag.h"
 
-#include <taglib/tag.h>
-#include <taglib/tstring.h>
-#include <taglib/fileref.h>
-#include <taglib/mpegfile.h>
-#include <taglib/id3v2tag.h>
-#include <taglib/attachedpictureframe.h>
+#include "taglib/tag.h"
+//#include "tstring.h"
+#include "taglib/fileref.h"
+//#include "mpegfile.h"
+//#include "id3v2tag.h"
+//#include "attachedpictureframe.h"
 
 typedef struct _metatag 
 {

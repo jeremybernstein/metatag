@@ -19,10 +19,8 @@ file(GLOB PROJECT_SRC
 )
 
 message("Generating: taglib")
+add_compile_definitions(TAGLIB_STATIC)
 add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/taglib)
-
-find_package(ZLIB REQUIRED)
-find_package(Iconv REQUIRED)
 
 add_library( 
 	${PROJECT_NAME} 

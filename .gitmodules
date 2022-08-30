@@ -1,0 +1,6 @@
+[submodule "source/max-sdk-base"]
+	path = source/max-sdk-base
+	url = https://github.com/Cycling74/max-sdk-base.git
+[submodule "source/metatag/taglib"]
+	path = source/projects/metatag/taglib
+	url = https://github.com/taglib/taglib.git

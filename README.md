@@ -1,9 +1,7 @@
 metatag: taglib-based metadata tagger for Max
 
-NOTE: this repository makes use of Github Large File Support: https://git-lfs.github.com
-
 ```
-Copyright (c) 2010-2017 Jeremy Bernstein
+Copyright (c) 2010-2022 Jeremy Bernstein
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of 
 this software and associated documentation files (the "Software"), to deal in the 
